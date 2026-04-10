@@ -1,0 +1,25 @@
+{
+  "name": "w1-d3-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnacosta23-beep/w1-d3-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/dnacosta23-beep/w1-d3-assignment/issues"
+  },
+  "homepage": "https://github.com/dnacosta23-beep/w1-d3-assignment#readme",
+  "dependencies": {
+    "is-natural-number": "^4.0.1"
+  }
+}
