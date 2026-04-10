@@ -8,9 +8,8 @@ const testValue3 = "10";
 const testValue4 = 0; 
 const testValue5 = 3.14;
 
-console.log('--- Running Validation Tests ---');
-validateQuantity(testValue1); 
-validateQuantity(testValue2); 
-validateQuantity(testValue3); 
-validateQuantity(testValue4);
-validateQuantity(testValue5);
+console.log(validateQuantity(testValue1)); 
+console.log(validateQuantity(testValue2)); 
+console.log(validateQuantity(testValue3)); 
+console.log(validateQuantity(testValue4)); 
+console.log(validateQuantity(testValue5)); 
